@@ -1,16 +1,19 @@
-CMakeLists.txt.user
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-_deps
-CMakeUserPresets.json
+build/
+cmake-build-*/
+out/
 
+.vscode/
+.idea/
+*.user
+*.suo
+
+*.o
+*.obj
+*.exe
+*.a
+*.lib
+*.so
+*.dylib
 # CLion
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
