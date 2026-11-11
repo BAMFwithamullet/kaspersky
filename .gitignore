@@ -4,6 +4,7 @@ out/
 
 .vscode/
 .idea/
+.vs/
 *.user
 *.suo
 
